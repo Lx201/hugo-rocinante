@@ -1,4 +1,4 @@
-baseURL = "https://tech-crunch2.netlify.app"
+baseURL = "https://tech-crunch2.netlify.com"
 languageCode = "en-us"
 paginate = 3
 summaryLength = 0
